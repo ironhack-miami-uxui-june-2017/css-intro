@@ -22,3 +22,8 @@ p {
   background-color: #fd5c63;
   color: white;
 }
+
+.big-fat-text {
+  font-size: 30px;
+  font-weight: bold;
+}
